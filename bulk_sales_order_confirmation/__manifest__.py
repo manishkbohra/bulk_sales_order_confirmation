@@ -17,4 +17,6 @@
     'depends': ['sale', 'sale_management'],
     'installable': True,
     'auto_install': False,
+    'application': True,
+
 }
