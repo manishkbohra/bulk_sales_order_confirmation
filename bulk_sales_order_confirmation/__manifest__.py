@@ -9,6 +9,9 @@
     'category': 'Sales',
     'author': 'Manish Bohra',
     'website': 'www.linkedin.com/in/manishkumarbohra',
+    'maintainer': 'Manish Bohra',
+    'support': 'manishkumarbohra@outlook.com',
+    'sequence': '10',
     'license': 'LGPL-3',
     "data": [
         'views/bulk_sales.xml',
