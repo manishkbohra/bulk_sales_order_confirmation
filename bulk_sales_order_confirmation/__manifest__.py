@@ -3,7 +3,7 @@
 
 {
     'name': 'Bulk Sales Order Confirmation',
-    'version': '1.0',
+    'version': '13.0',
     'summary': 'This app allows you to confirm multiple sales order in bulk',
     'description': 'This app allows you to confirm multiple sales order in bulk',
     'category': 'Sales',
